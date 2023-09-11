@@ -1,0 +1,26 @@
+*,*:before,*:after{
+    box-sizing: border-box;
+  }
+
+  .box{
+    margin: 0 auto;
+    width: 800px;
+    padding-top: 3px;
+    display: flex;
+  }
+
+  .text{
+    width: 348px;
+    height: 470px;
+    background: #b3d4d1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 60px;
+  }
+
+  .text p{
+    font-size: 18px;
+    color: #fff;
+  }
