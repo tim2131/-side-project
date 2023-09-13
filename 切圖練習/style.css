@@ -1,0 +1,94 @@
+  a{
+    text-decoration: none;
+  }
+
+  ul{
+    list-style: none;
+  }
+  
+  .wrap{
+    margin: 0 auto;
+    width: 1080px;
+  }
+  
+  .social{
+    background-color: #e9e9e9;
+    padding: 10px;
+  }
+  
+  .social ul{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  
+  .social li a{
+    display: block;
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  .facebook a{
+    color: #4460a0;
+    border-right: 2px solid #999ea2;
+    font-weight: bold;
+  }
+  
+  .facebook a:hover{
+    background-color: #c0c0c0;
+    color: #fff;
+  }
+  
+  .twitter a{
+    color: #00aaec;
+    font-weight: bold;
+  }
+  
+  .twitter a:hover{
+    background-color: #c0c0c0;
+    color: #fff;
+  }
+  
+  .menu{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo a{
+    background-image:       
+    url("https://i.postimg.cc/MH0SsM2K/allblack.png");
+    display: block;
+    width: 160px;
+    height: 100px;
+    text-indent: 101%;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  
+  .right-menu ul{
+    display: flex;
+  }
+  
+  .right-menu a{
+    display: block;
+    padding: 20px;
+    color: #58debc;
+    font-weight: bold;
+    font-size: 24px;
+  }
+  
+  .right-menu a:hover{
+    background: #ccc;
+    color: #708069;
+  }
+  
+  .banner a{
+    display: block;
+  }
+  
+  .banner img{
+    width: 1080px;
+  }
+  
